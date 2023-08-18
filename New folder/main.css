@@ -111,7 +111,7 @@ body {
     color: black;
 }
 /* top navigation part css */
-video {
+/* video {
     object-fit: fill;
     position: absolute;
     right: 0;
@@ -120,11 +120,11 @@ video {
     width: 100%;
     top: 95px;
     
-}
+} */
 /* bottm part  */
 .bottom{
     /* border: 2px solid black; */
-    margin-top: 820px;
+    margin-top: 80px;
     display: flex;
 }
 .leftb{
